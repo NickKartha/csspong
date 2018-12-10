@@ -5,6 +5,10 @@ It was designed to be hosted on a subreddit, so you can play it at [reddit.com/r
 
 I tried to explain how it works over [there](https://www.reddit.com/r/csspong/comments/5cyqcd/how_it_works/)
 
+## Note from Nikhil
+
+I have no idea how to run this. I found this project only adheres to the reddit header format and doesn't work properly when run just like that. This may be due to dependencies and environments that I may have not known needed to be set up.
+
 ## Development
 
 I used webpack to be able to use sass/scss and also iterate faster.  
